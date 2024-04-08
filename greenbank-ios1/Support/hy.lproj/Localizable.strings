@@ -1,0 +1,238 @@
+/* 
+  Localizable.strings
+  greenbank-ios1
+
+  Created by Hovo Ohanyan on 17.01.24.
+  
+*/
+
+//MARK: ProjectLocalizations
+
+"button_login_title" = "Մուտք";
+"signup_Label" = "Գրանցվել";
+"button_getStarted_title" = "Գրանցվել";
+"login_label" = "Մուտք";
+"email_label" = "Էլ. փոստ կամ հեռախոսի համար";
+"password_label" = "Գաղտնաբառ";
+"login_page_registration_label" = "Մուտք";
+"email_placeholder" = "Էլ. փոստ կամ հեռախոսի համար";
+"password_placeholder" = "Գաղտնաբառ";
+"login_page_forgotPassword" = "Մոռացե՞լ եք գաղտնաբառը";
+"login_page_message" = "Մուտք";
+"register_page_name_label" = "Անուն";
+"register_page_lastName_label" = "Ազգանուն";
+"register_page_phoneNumber_label" = "Հեռախոսի համար";
+"register_page_password_label" = "Գաղտնաբառ";
+"register_page_repeatPassword_label" = "Գաղտնաբառ";
+"name_placeholder" = "Անուն";
+"lastName_placeholder" = "Ազգանուն";
+"register_page_email_placeholder" = "Էլ. փոստ";
+"register_page_phoneNumber_placeholder" = "Հեռախոսի համար";
+"register_page_password_placeholder" = "Գաղտնաբառ";
+"button_continue_title" = "Շարունակել";
+"register_page_email_label" = "Էլ. փոստ";
+"first_page_firstLabel" = "Գրանցվեք այժմ";
+"first_page_secondLabel" = "Սկսեք հիմա";
+"second_page_firstLabel" = "Մուտք";
+"second_page_secondLabel" = "Մի քանի քայլ է, ու դուք մեզ մոտ եք!";
+"done_image" = "Կատարել";
+"alert_image" = "Զգուշացում";
+"password&Rpassword_labels_image" = "դիտել-փակել";
+"password&Rpassword_labels_image1" = "դիտել";
+"register_page_logInButton_title" = "Մուտք";
+"register_page_registerButton_title" = "Գրանցվել";
+"register_thirdPage_header" = "Մենք ուղարկեցինք նոր էլ. փոստի համար կոդ";
+"register_thirdPage_afterHeader" = "Խնդրում ենք ստուգեք ձեր էլ. փոստը";
+"register_finalHeaderLabel_title" = "Շնորհավորում ենք";
+"register_finalAfterHeaderLabel_title" = "Դուք հաջողությամբ գրանցվեցիք և հիմա կարող եք մուտք գործել ձեր անձնական հաշիվ";
+"regiter_lastPage_backgroundImgae" = "Կարգավիճակ";
+"backButton_title" = "back";
+"cell_text" = "Պոլիկլինիկա";
+"date_of_birth_label" = "Ծննդյան օր";
+"day_label" = "Օր";
+"month_label" = "Ամիս";
+"year_label" = "Տարի";
+"january_text" = "Հունվար";
+"forgot_page_title" = "Խնդրում ենք գրել ձեր էլ. փոստի հասցեն";
+"forgot_page_helper_title" = "Մուտքագրեք այն հասցեն, որը ձեր հաշվի հետ կպահպանվի";
+"continue_title" = "Շարունակել";
+"login_helper_label" = "Մուտք գործելուց հետո";
+"forgot_password_code_confirm_title" = "Մենք ուղարկեցինք նոր էլ. փոստի համար կոդ";
+"forgot_password_code_confirm_helper_title" = "Խնդրում ենք ստուգել ձեր էլ. փոստը";
+"february_text" = "Փետրվար";
+"march_text" = "Մարտ";
+"reset_password_page_title" = "Ձեր գաղտնաբառը հաջողությամբ վերականգնվել է";
+"april_text" = "Ապրիլ";
+"may_text" = "Մայիս";
+"june_text" = "Հունիս";
+"reset_password_page_helper_title" = "Խնդրում ենք մուտքագրել նոր գաղտնաբառ";
+"july_text" = "Հուլիս";
+"august_text" = "Օգոստոս";
+"september_text" = "Սեպտեմբեր";
+"october_text" = "Հոկտեմբեր";
+"change_password_button_title" = "Փոխել գաղտնաբառը";
+"forgot_password_last_page_title" = "Ձեր գաղտնաբառը հաջողությամբ վերականգնվել է";
+"november_text" = "Նոյեմբեր";
+"december_text" = "Դեկտեմբեր";
+"tabBar_home_icon" = "home";
+"tabBar_transaction_icon" = "transaction";
+"tabBar_payment_icon" = "payment";
+"tabBar_profile_icon" = "profile";
+"tabBar_selectedHome_icon" = "selectedHome";
+"tabBar_selectedTransaction_icon" = "selectedTransaction";
+"tabBar_selectedPayment_icon" = "selectedPayment";
+"tabBar_selectedProfile_icon" = "selectedProfile";
+"password_error" = "Գաղտնաբառը պետք է պարունակի մեծատառեր և թվեր";
+"email_error" = "Սխալ էլ. փոստ";
+"accounHolder_Name" =  "Հաշվի սեփականատիրոջ անունը";
+"cardHolder_Name" =  "Քարտապանի անունը";
+"holder_PlaceHolder" =  "Խնդրում ենք մուտքագրել սեփականատիրոջ անունը";
+"currency_Header" = "Քարտի արժույթ";
+"firstName_error" = "Սխալ անուն";
+"lastName_error" = "Սխալ ազգանուն";
+"phoneNumber_error" = "Սխալ հեռախոսահամար";
+"chip_image" = "Chip";
+"master_card" = "Mastercard";
+"visa_card" = "Visa";
+"wifi_image" = "Paypass";
+"notification_Button_image" = "notifications";
+"green_Plus_Button" = "greenPlus";
+"add_card_label" = "Խնդրում ենք ավելացնել քարտը, որպեսզի կայքը վավերացվի";
+"or_label" = "կամ";
+"try_balance_label" = "Փորձեք ընտրել ձեր հաշիվը";
+"hi_label" = "Բարև";
+"no_info_label" = "Ընթացիկ պատմություն չկա";
+"see_other_data_label" = "Տրամադրեք քարտը առաջինը, ապա դուք կտեսնեք այլ տվյալները";
+"other_data_Image" = "otherData";
+"label_Cards" = "Քարտեր";
+"label_Account" = "Հաշիվ";
+"add_Card_Button_Title" = "Կարգավիճակ";
+"intro_Label" = "Խնդրում ենք ընտրել գույնը, որպեսզի տարբերեք այս քարտը ձեր այլ քարտերից";
+"user_Welcome_Label" = "Բարի գալուստ";
+
+//MARK: EditCardOrAccount & colorSeter
+"colorSeter_gray" = "graySeter";
+"colorSeter_green" = "greenSeter";
+"colorSeter_lightBlue" = "lightBlueSeter";
+"colorSeter_orange" = "orangeSeter";
+"colorSeter_darkOrange" = "darkOrangeSeter";
+"colorSeter_seeBlue" = "seeBlueSeter";
+"colorSeter_roseRed" = "roseRedSeter";
+"colorSeter_yellowSun" = "yellowSunSeter";
+"colorSeter_darkGray" = "darkGraySeter";
+"colorSeter_lightGray" = "lightGraySeter";
+"colorSeter_dark" = "darkSeter";
+"colorSeter_skyBlue" = "skyBlueSeter";
+"colorSeter_everestBlue" = "everestBlueSeter";
+"colorSeter_darkPurple" = "darkPurpleSeter";
+"colorSeter_lightPurple" = "lightPurpleSeter";
+"colorSeter_sunnyGray" = "sunnySeter";
+"selected_button_image" = "ellipse";
+"masterCard_Image" = "MasterCardView";
+"visaCard_Image" = "VisaCardView";
+"currency_Dram" = "AMD";
+"currency_Euro" = "EUR";
+"currency_Usd" = "USD";
+"account_Header" = "Ընթացիկ հաշիվ";
+
+//MARK: Payments
+"card_Image" = "cardImage";
+"account_Image" = "accountImage";
+"phone_Image" = "phoneImage";
+"qr_image" = "qrImage";
+"card_Form" = "Քարտ";
+"account_Form" = "Հաշիվ";
+"phone_Form" = "Հեռախոս";
+"qr_Form" = "QR";
+"payments_label" = "Վճարումներ";
+"noInfo_Header" = "Ինֆորմացիա չկա";
+"makeInfo_Label" = "Կատարեք գործարք՝ պատմությունը տեսնելու համար";
+
+//MARK: TransferToCard
+"transferToCard_label" = "Փոխանցում քարտին";
+"cardType_label" = "Վճարման տեսակ";
+"amount_label" = "Գումար";
+"creditCard_label" = "Կրեդիտային քարտ";
+"message_label" = "Նամակ";
+"amount_placeholder" = "0.00$";
+"creditCard_placeholder" = "Ավելացրեք կրեդիտային քարտի համար";
+"message_placeholder" = "Խնդրում ենք ավելացնել վճարման նպատակը";
+"cardType_placeholder" = "Խնդրում ենք ընտրել քարտի տեսակը";
+"master_logo" = "masterType";
+"visa_logo" = "visaType";
+"cardHolderName_Error" = "Տեքստը պետք գրված լինի միայն մեծատառերով";
+"amountLabel_Error" = "Այս դաշտը չի կարող դատարկ լինել";
+"creditCardLabel_Error" = "Այս դաշտը պետք է պարունակի առավելագույնը 16 թիվ";
+"messageLabel_Error" = "Այս դաշտը պետք է պարունակի առավելագույնը 10 տառ";
+
+//MARK: TransferToAccount
+"transferToAccount_label" = "Փոխանցում հաշվին";
+"accountType_label" = "Վճարման տեսակ";
+"creditAccount_label" = "Կրեդիտային հաշիվ";
+"creditAccount_placeholder" = "Ավելացրեք կրեդիտային հաշիվի համար";
+"accountType_placeholder" = "Խնդրում ենք ընտրել հաշիվի տեսակը";
+"account_logo" = "accountCellImage";
+
+//MARK: ProfileScreen
+"profileScreen_header" = "Կարգավորում";
+"editProfilePicture_Image" = "editProfilePic";
+"topBackground_Image" = "profileBackground";
+"personalInfo_Header" = "Անձնական տվյալներ";
+"firstName_Text" = "Անուն";
+"lastName_Text" = "Ազգանուն";
+"email_Text" = "Էլ. փոստ";
+"mobile_Text" = "Հեռախոս";
+"submit_Button" = "Հաստատել";
+"settings_Image"  = "settingsImage";
+
+//MARK: Profile/Settings
+"language_header" = "Առաջարկվող";
+"settingsScreen_header" = "Կարգավորում";
+"profileSettings" = "Պրոֆիլի կարգավորում";
+"notificationsSettings" = "Ծանուցումներ";
+"languageSettings" = "Լեզու";
+"securitySettings" = "Անվտանգություն";
+"themeSettings" = "Թեմա";
+"helpSupportSettings" = "Օգնություն";
+"privacyPoliceSettings" = "Գաղտնիություն";
+//images
+"profileSettingsImagee" = "profileImage";
+"notificationsSettingsImage" = "notificationsImage";
+"languageSettingsImage" = "language";
+"securitySettingsImage" = "security";
+"themeSettingsImage" = "theme";
+"helpSupportSettingsImage" = "helpSupport";
+"helpSupportSettingsImage" = "helpSupport";
+"privacyPoliceSettingsImage" = "privacyPolice";
+
+//MARK: UNTOUCHABLE
+"armenianLanguage_Text" = "Հայերեն";
+"russianLanguage_Text" = "Русский";
+"englishLanguage_Text" = "English(UK)";
+
+//MARK: Payment Success
+"greenBackground_Image" = "greenPackground";
+"greenDone_Image" = "greenSelected";
+"post_Image" = "postImage";
+"paymentSuccess_Label" = "Վճարումը հաջող էր";
+"thankYou_Label" = "Շնորհակալություն վճարելու համար";
+"home_Button" = "Գլխավոր էջ";
+"toPhone_Background" = "toPhone";
+"transferToPhone_Header" = "Փոխանցում հեռախոսով";
+"phoneNumber_label" = "Հեռախոսահամար";
+"phoneNumber_placeholder" = "Խնդրում ենք մուտքագրել հեռախոսահամարը";
+
+//MARK: Transactions
+"transaction_Label" = "Գործառնություններ";
+
+
+ 
+
+
+
+
+
+
+
+
+

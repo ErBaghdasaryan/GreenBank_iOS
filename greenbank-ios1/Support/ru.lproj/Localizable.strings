@@ -1,0 +1,250 @@
+/* 
+  Localizable.strings
+  greenbank-ios1
+
+  Created by Hovo Ohanyan on 17.01.24.
+  
+*/
+
+//MARK: ProjectLocalizations
+
+"button_login_title" = "Войти";
+"signup_Label" = "Зарегистрироваться";
+"button_getStarted_title" = "Начать";
+"login_label" = "Вход";
+"email_label" = "Электронная почта или номер телефона";
+"password_label" = "Пароль";
+"login_page_registration_label" = "У вас нет аккаунта?";
+"email_placeholder" = "Введите вашу электронную почту или номер телефона";
+"password_placeholder" = "Пожалуйста, введите ваш пароль";
+"login_page_forgotPassword" = "Забыли пароль?";
+"login_page_message" = "Данные пользователя неверные";
+"register_page_name_label" = "Имя";
+"register_page_lastName_label" = "Фамилия";
+"register_page_phoneNumber_label" = "Номер телефона";
+"register_page_password_label" = "Пароль";
+"register_page_repeatPassword_label" = "Повторите пароль";
+"name_placeholder" = "Введите ваше имя";
+"lastName_placeholder" = "Введите вашу фамилию";
+"register_page_email_placeholder" = "Введите вашу электронную почту";
+"register_page_phoneNumber_placeholder" = "Введите ваш номер телефона";
+"register_page_password_placeholder" = "Введите ваш пароль";
+"button_continue_title" = "Продолжить";
+"register_page_email_label" = "Электронная почта";
+"first_page_firstLabel" = "Давайте зарегистрируемся сейчас";
+"first_page_secondLabel" = "Начните прямо сейчас с нами";
+"second_page_firstLabel" = "Войдите в свой аккаунт";
+"second_page_secondLabel" = "Всего несколько шагов, и вы внутри!";
+"done_image" = "готово";
+"alert_image" = "предупреждение";
+"password&Rpassword_labels_image" = "скрытый пароль";
+"password&Rpassword_labels_image1" = "показать пароль";
+"register_page_logInButton_title" = "Войти";
+"register_page_registerButton_title" = "Регистрация";
+"register_thirdPage_header" = "Мы отправили новый код на вашу электронную почту";
+"register_thirdPage_afterHeader" = "Пожалуйста, проверьте вашу электронную почту";
+"register_finalHeaderLabel_title" = "Поздравляем";
+"register_finalAfterHeaderLabel_title" = "Вы успешно зарегистрировались и теперь можете войти в свой личный аккаунт";
+"regiter_lastPage_backgroundImgae" = "иллюстрация";
+"backButton_title" = "back";
+"cell_text" = "ячейка";
+"date_of_birth_label" = "Дата рождения";
+"day_label" = "День";
+"month_label" = "Месяц";
+"year_label" = "Год";
+"january_text" = "Январь";
+"forgot_page_title" = "Пожалуйста, введите ваш адрес электронной почты";
+"forgot_page_helper_title" = "Введите адрес, который связан с вашим аккаунтом";
+"continue_title" = "Продолжить";
+"login_helper_label" = "Уже есть аккаунт?";
+"forgot_password_code_confirm_title" = "Мы отправили новый код на вашу электронную почту";
+"forgot_password_code_confirm_helper_title" = "Пожалуйста, проверьте вашу электронную почту";
+"february_text" = "Февраль";
+"march_text" = "Март";
+"reset_password_page_title" = "Ваш пароль успешно сброшен";
+"april_text" = "Апрель";
+"may_text" = "Май";
+"june_text" = "Июнь";
+"reset_password_page_helper_title" = "Пожалуйста, введите новый пароль";
+"july_text" = "Июль";
+"august_text" = "Август";
+"september_text" = "Сентябрь";
+"october_text" = "Октябрь";
+"change_password_button_title" = "Изменить пароль";
+"forgot_password_last_page_title" = "Ваш пароль успешно восстановлен";
+"november_text" = "Ноябрь";
+"december_text" = "Декабрь";
+"tabBar_home_icon" = "home";
+"tabBar_transaction_icon" = "transaction";
+"tabBar_payment_icon" = "payment";
+"tabBar_profile_icon" = "profile";
+"tabBar_selectedHome_icon" = "selectedHome";
+"tabBar_selectedTransaction_icon" = "selectedTransaction";
+"tabBar_selectedPayment_icon" = "selectedPayment";
+"tabBar_selectedProfile_icon" = "selectedProfile";
+"password_error" = "Пароль должен содержать заглавные буквы и цифры";
+"email_error" = "Неверная электронная почта";
+"accounHolder_Name" =  "Имя владельца учетной записи";
+"cardHolder_Name" =  "Имя владельца карты";
+"holder_PlaceHolder" =  "Пожалуйста, введите имя владельца";
+"currency_Header" = "Валюта Карты";
+"firstName_error" = "Неверное имя";
+"lastName_error" = "Неверная фамилия";
+"phoneNumber_error" = "Неверный номер телефона";
+"chip_image" = "Chip";
+"master_card" = "Mastercard";
+"visa_card" = "Visa";
+"wifi_image" = "Paypass";
+"notification_Button_image" = "notifications";
+"green_Plus_Button" = "greenPlus";
+"add_card_label" = "Пожалуйста, добавьте карту, чтобы мы могли проверить аккаунт";
+"or_label" = "или";
+"try_balance_label" = "Давайте попробуем выбрать баланс вашего счета";
+"hi_label" = "Привет";
+"no_info_label" = "Пока нет информации";
+"see_other_data_label" = "Сначала прикрепите карту, затем вы увидите другие данные";
+"other_data_Image" = "otherData";
+"label_Cards" = "Карты";
+"label_Account" = "Счет";
+"add_Card_Button_Title" = "Сделать карту";
+"intro_Label" = "Пожалуйста, выберите цвет, чтобы отличить эту карту от других, которые вы прикрепили, и лучше организовать свои карты.";
+"user_Welcome_Label" = "Добро пожаловать";
+
+//MARK: EditCardOrAccount & colorSeter
+
+"colorSeter_gray" = "graySeter";
+"colorSeter_green" = "greenSeter";
+"colorSeter_lightBlue" = "lightBlueSeter";
+"colorSeter_orange" = "orangeSeter";
+"colorSeter_darkOrange" = "darkOrangeSeter";
+"colorSeter_seeBlue" = "seeBlueSeter";
+"colorSeter_roseRed" = "roseRedSeter";
+"colorSeter_yellowSun" = "yellowSunSeter";
+"colorSeter_darkGray" = "darkGraySeter";
+"colorSeter_lightGray" = "lightGraySeter";
+"colorSeter_dark" = "darkSeter";
+"colorSeter_skyBlue" = "skyBlueSeter";
+"colorSeter_everestBlue" = "everestBlueSeter";
+"colorSeter_darkPurple" = "darkPurpleSeter";
+"colorSeter_lightPurple" = "lightPurpleSeter";
+"colorSeter_sunnyGray" = "sunnySeter";
+"selected_button_image" = "ellipse";
+
+"masterCard_Image" = "Mastercard";
+"visaCard_Image" = "Visa";
+"currency_Dram" = "AMD";
+"currency_Euro" = "EUR";
+"currency_Usd" = "USD";
+"account_Header" = "Текущий баланс";
+
+//MARK: Payments
+
+"card_Image" = "cardImage";
+"account_Image" = "accountImage";
+"phone_Image" = "phoneImage";
+"qr_image" = "qrImage";
+"card_Form" = "Карта";
+"account_Form" = "Счет";
+"phone_Form" = "Телефон";
+"qr_Form" = "QR";
+"payments_label" = "Платежи";
+
+"noInfo_Header" = "Пока нет информации";
+"makeInfo_Label" = "Пожалуйста, сделайте транзакцию, чтобы увидеть вашу историю здесь.";
+
+//MARK: TransferToCard
+
+"transferToCard_label" = "Перевод на карту";
+"cardType_label" = "Дебетовая карта";
+"amount_label" = "Сумма";
+"creditCard_label" = "Кредитная карта";
+"message_label" = "Сообщение";
+"amount_placeholder" = "0,00 $";
+"creditCard_placeholder" = "Добавьте номер кредитной карты";
+"message_placeholder" = "Пожалуйста, добавьте назначение платежа";
+"cardType_placeholder" = "Пожалуйста, выберите тип карты";
+"master_logo" = "masterType";
+"visa_logo" = "visaType";
+
+//MARK: TransferToAccount
+
+"transferToAccount_label" = "Перевод на счет";
+"accountType_label" = "Дебетовый счет";
+"creditAccount_label" = "Кредитный счет";
+"creditAccount_placeholder" = "Добавьте номер кредитного счета";
+"accountType_placeholder" = "Пожалуйста, выберите тип счета";
+
+"cardHolderName_Error" = "Текст должен содержать имя и фамилию, написанные исключительно заглавными буквами";
+"amountLabel_Error" = "Это поле не может быть пустым или написано что-то еще, кроме цифр";
+"creditCardLabel_Error" = "Это поле должно содержать не менее 16 цифр";
+"messageLabel_Error" = "Это поле должно содержать не менее 10 букв";
+
+"account_logo" = "accountCellImage";
+
+//MARK: ProfileScreen
+
+"profileScreen_header" = "Настройки профиля";
+"editProfilePicture_Image" = "editProfilePic";
+"topBackground_Image" = "profileBackground";
+
+"language_header" = "Предложенный";
+"personalInfo_Header" = "Личная информация";
+"firstName_Text" = "Имя";
+"lastName_Text" = "Фамилия";
+"email_Text" = "Электронная почта";
+"mobile_Text" = "Мобильный телефон";
+
+"submit_Button" = "Отправить";
+"settings_Image"  = "settingsImage";
+
+//MARK: Profile/Settings
+
+"settingsScreen_header" = "Настройки";
+"profileSettings" = "Настройки профиля";
+"notificationsSettings" = "Уведомления";
+"languageSettings" ="Язык";
+"securitySettings" = "Безопасность";
+"themeSettings" = "Тема";
+"helpSupportSettings" = "Помощь и поддержка";
+"privacyPoliceSettings" = "Политика конфиденциальности";
+
+//images
+"profileSettingsImagee" = "profileImage";
+"notificationsSettingsImage" = "notificationsImage";
+"languageSettingsImage" = "language";
+"securitySettingsImage" = "security";
+"themeSettingsImage" = "theme";
+"helpSupportSettingsImage" = "helpSupport";
+"helpSupportSettingsImage" = "helpSupport";
+"privacyPoliceSettingsImage" = "privacyPolice";
+
+//MARK: UNTOUCHABLE
+"armenianLanguage_Text" = "Հայերեն";
+"russianLanguage_Text" = "Русский";
+"englishLanguage_Text" = "English(UK)";
+
+//MARK: Payment Success
+"greenBackground_Image" = "greenPackground";
+"greenDone_Image" = "greenSelected";
+"post_Image" = "postImage";
+"paymentSuccess_Label" = "Оплата прошла успешно!";
+"thankYou_Label" = "Спасибо, что заплатили";
+"home_Button" = "Главное меню";
+"toPhone_Background" = "toPhone";
+"transferToPhone_Header" = "Перевод на телефон";
+"phoneNumber_label" = "Номер телефона";
+"phoneNumber_placeholder" = "Пожалуйста, введите номер телефона";
+
+//MARK: Transactions
+"transaction_Label" = "Операции";
+
+ 
+
+
+
+
+
+
+
+
+

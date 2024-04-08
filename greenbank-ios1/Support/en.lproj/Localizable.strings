@@ -1,0 +1,252 @@
+/* 
+  Localizable.strings
+  greenbank-ios1
+
+  Created by Hovo Ohanyan on 17.01.24.
+  
+*/
+
+//MARK: ProjectLocalizations
+
+"button_login_title" = "Login";
+"signup_Label" = "Sign up";
+"button_getStarted_title" = "Get started";
+"login_label" = "Log in";
+"email_label" = "Email or phone number";
+"password_label" = "Password";
+"login_page_registration_label" = "Don't have an account?";
+"email_placeholder" = "Enter your email or phone number";
+"password_placeholder" = "Please enter your password";
+"login_page_forgotPassword" = "Forgot password ?";
+"login_page_message" = "The user's data is incorrect";
+"register_page_name_label" = "Name";
+"register_page_lastName_label" = "Last name";
+"register_page_phoneNumber_label" = "Phone number";
+"register_page_password_label" = "Password";
+"register_page_repeatPassword_label" = "Repeat password";
+"name_placeholder" = "Enter your name";
+"lastName_placeholder" = "Enter your last name";
+"register_page_email_placeholder" = "Enter your email";
+"register_page_phoneNumber_placeholder" = "Enter your phone number";
+"register_page_password_placeholder" = "Enter your password";
+"button_continue_title" = "Continue";
+"register_page_email_label" = "Email";
+"first_page_firstLabel" = "Let's register now";
+"first_page_secondLabel" = "Start right now with us";
+"second_page_firstLabel" = "Login to your Account";
+"second_page_secondLabel" = "Just a Few Steps, and You're in!";
+"done_image" = "done";
+"alert_image" = "alert";
+"password&Rpassword_labels_image" = "view-off";
+"password&Rpassword_labels_image1" = "view";
+"register_page_logInButton_title" = "Log in";
+"register_page_registerButton_title" = "Registration";
+"register_thirdPage_header" = "We sent a new email number code";
+"register_thirdPage_afterHeader" = "Please check your Email";
+"register_finalHeaderLabel_title" = "Congratulations";
+"register_finalAfterHeaderLabel_title" = "You have successfully registered and can now log into your personal account";
+"regiter_lastPage_backgroundImgae" = "Ilustration";
+"backButton_title" = "back";
+"cell_text" = "Cell";
+"date_of_birth_label" = "Date of Birth";
+"day_label" = "Day";
+"month_label" = "Month";
+"year_label" = "Year";
+"january_text" = "January";
+"forgot_page_title" = "Please enter your email address";
+"forgot_page_helper_title" = "Enter the address  that is linked to your account";
+"continue_title" = "Continue";
+"login_helper_label" = "Already have an account?";
+"forgot_password_code_confirm_title" = "We sent a new to email number code";
+"forgot_password_code_confirm_helper_title" = "Please check your Email ";
+"february_text" = "February";
+"march_text" = "March";
+"reset_password_page_title" = "Your password has been successfully reset";
+"april_text" = "April";
+"may_text" = "May";
+"june_text" = "June";
+"reset_password_page_helper_title" = "Please enter a new password";
+"july_text" = "July";
+"august_text" = "August";
+"september_text" = "September";
+"october_text" = "October";
+"change_password_button_title" = "Change Password";
+"forgot_password_last_page_title" = "Your password has been successfully recovered";
+"november_text" = "November";
+"december_text" = "December";
+"tabBar_home_icon" = "home";
+"tabBar_transaction_icon" = "transaction";
+"tabBar_payment_icon" = "payment";
+"tabBar_profile_icon" = "profile";
+"tabBar_selectedHome_icon" = "selectedHome";
+"tabBar_selectedTransaction_icon" = "selectedTransaction";
+"tabBar_selectedPayment_icon" = "selectedPayment";
+"tabBar_selectedProfile_icon" = "selectedProfile";
+"password_error" = "The password must contain capital letters and numbers";
+"email_error" = "sxal email";
+"accounHolder_Name" =  "Account holder Name";
+"cardHolder_Name" =  "Card holder Name";
+"holder_PlaceHolder" =  "Please enter holder name";
+"currency_Header" = "Card Currency";
+"firstName_error" = "sxal anun";
+"lastName_error" = "sxal anun";
+"phoneNumber_error" = "sxal hamar";
+"chip_image" = "Chip";
+"master_card" = "Mastercard";
+"visa_card" = "Visa";
+"wifi_image" = "Paypass";
+"notification_Button_image" = "notifications";
+"green_Plus_Button" = "greenPlus";
+"add_card_label" = "Please add the card, so we can verify the account";
+"or_label" = "or";
+"try_balance_label" = "Lets try to Choose your Account balance";
+"hi_label" = "Hi";
+"no_info_label" = "There is no information yet";
+"see_other_data_label" = "Attach the card first, then you will see the other data";
+"other_data_Image" = "otherData";
+"label_Cards" = "Cards";
+"label_Account" = "Account";
+"add_Card_Button_Title" = "Make card";
+"intro_Label" = "Please, select a color to differentiat this card from other cards you have attached and organize your cards better.";
+"user_Welcome_Label" = "Welcome";
+
+//MARK: EditCardOrAccount & colorSeter
+
+"colorSeter_gray" = "graySeter";
+"colorSeter_green" = "greenSeter";
+"colorSeter_lightBlue" = "lightBlueSeter";
+"colorSeter_orange" = "orangeSeter";
+"colorSeter_darkOrange" = "darkOrangeSeter";
+"colorSeter_seeBlue" = "seeBlueSeter";
+"colorSeter_roseRed" = "roseRedSeter";
+"colorSeter_yellowSun" = "yellowSunSeter";
+"colorSeter_darkGray" = "darkGraySeter";
+"colorSeter_lightGray" = "lightGraySeter";
+"colorSeter_dark" = "darkSeter";
+"colorSeter_skyBlue" = "skyBlueSeter";
+"colorSeter_everestBlue" = "everestBlueSeter";
+"colorSeter_darkPurple" = "darkPurpleSeter";
+"colorSeter_lightPurple" = "lightPurpleSeter";
+"colorSeter_sunnyGray" = "sunnySeter";
+"selected_button_image" = "ellipse";
+
+"masterCard_Image" = "MasterCardView";
+"visaCard_Image" = "VisaCardView";
+"currency_Dram" = "AMD";
+"currency_Euro" = "EUR";
+"currency_Usd" = "USD";
+"account_Header" = "Current Balance";
+
+//MARK: Payments
+
+"card_Image" = "cardImage";
+"account_Image" = "accountImage";
+"phone_Image" = "phoneImage";
+"qr_image" = "qrImage";
+"card_Form" = "Card";
+"account_Form" = "Account";
+"phone_Form" = "Phone";
+"qr_Form" = "QR";
+"payments_label" = "Payments";
+
+"noInfo_Header" = "Theere is no information yet";
+"makeInfo_Label" = "Please make a transaction no to see your story here.";
+
+//MARK: TransferToCard
+
+"transferToCard_label" = "Transfer to Card";
+"cardType_label" = "Debit Card";
+"amount_label" = "Amount";
+"creditCard_label" = "Credit card";
+"message_label" = "Message";
+"amount_placeholder" = "0.00$";
+"creditCard_placeholder" = "Add a credit card number";
+"message_placeholder" = "Please add payment purpose";
+"cardType_placeholder" = "Please choose the Card Type";
+"master_logo" = "masterType";
+"visa_logo" = "visaType";
+
+//MARK: TransferToAccount
+
+"transferToAccount_label" = "Transfer to Account";
+"accountType_label" = "Debit Account";
+"creditAccount_label" = "Credit account";
+"creditAccount_placeholder" = "Add a credit account number";
+"accountType_placeholder" = "Please choose the Account Type";
+
+"cardHolderName_Error" = "The text must contain the first and last name written exclusively in capital letters";
+"amountLabel_Error" = "This field cannot be empty or write something else besides the number";
+"creditCardLabel_Error" = "This field must contain at least 16 numbers";
+"messageLabel_Error" = "This field must contain at least 10 letters";
+
+"account_logo" = "accountCellImage";
+
+//MARK: ProfileScreen
+
+"profileScreen_header" = "Profile settings";
+"editProfilePicture_Image" = "editProfilePic";
+"topBackground_Image" = "profileBackground";
+
+"language_header" = "Suggested";
+"personalInfo_Header" = "Personal Information";
+"firstName_Text" = "First name";
+"lastName_Text" = "Last name";
+"email_Text" = "Email";
+"mobile_Text" = "Mobile Phone";
+
+"submit_Button" = "Submit";
+"settings_Image"  = "settingsImage";
+
+//MARK: Profile/Settings
+
+"settingsScreen_header" = "Settings";
+"profileSettings" = "Profile settings";
+"notificationsSettings" = "Notifications";
+"languageSettings" ="Language";
+"securitySettings" = "Security";
+"themeSettings" = "Theme";
+"helpSupportSettings" = "Help & Support";
+"privacyPoliceSettings" = "Privacy police";
+
+//images
+"profileSettingsImagee" = "profileImage";
+"notificationsSettingsImage" = "notificationsImage";
+"languageSettingsImage" = "language";
+"securitySettingsImage" = "security";
+"themeSettingsImage" = "theme";
+"helpSupportSettingsImage" = "helpSupport";
+"helpSupportSettingsImage" = "helpSupport";
+"privacyPoliceSettingsImage" = "privacyPolice";
+
+//MARK: UNTOUCHABLE
+"armenianLanguage_Text" = "Հայերեն";
+"russianLanguage_Text" = "Русский";
+"englishLanguage_Text" = "English(UK)";
+
+//MARK: Payment Success
+"greenBackground_Image" = "greenPackground";
+"greenDone_Image" = "greenSelected";
+"post_Image" = "postImage";
+"paymentSuccess_Label" = "Payment successful!";
+"thankYou_Label" = "Thank you for paying";
+"home_Button" = "Home";
+"toPhone_Background" = "toPhone";
+"transferToPhone_Header" = "Transfer to Phone";
+"phoneNumber_label" = "Phone number";
+"phoneNumber_placeholder" = "Please enter phone number";
+
+//MARK: Transactions
+"transaction_Label" = "Transactions";
+
+
+
+ 
+
+
+
+
+
+
+
+
+
